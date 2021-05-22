@@ -1,0 +1,3 @@
+/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/CMakeFiles/KriegspielChess.dir

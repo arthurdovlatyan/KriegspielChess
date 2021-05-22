@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="KriegspielChess"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KriegspielChess">
+				<Option output="/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/KriegspielChess" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 KriegspielChess"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KriegspielChess/fast">
+				<Option output="/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/KriegspielChess" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 KriegspielChess/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arthurdovlat/CLionProjects/KriegspielChess/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Board.cpp">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Board.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Engine.cpp">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Engine.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Bishop.cpp">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Bishop.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Figure.cpp">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Figure.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/King.cpp">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/King.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Knight.cpp">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Knight.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Pawn.cpp">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Pawn.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Queen.cpp">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Queen.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Rook.cpp">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Figures/Rook.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Game.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/Utility.h">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/main.cpp">
+			<Option target="KriegspielChess"/>
+		</Unit>
+		<Unit filename="/home/arthurdovlat/CLionProjects/KriegspielChess/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
